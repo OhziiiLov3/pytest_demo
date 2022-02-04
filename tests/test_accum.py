@@ -5,7 +5,7 @@ Thier purpose is to show how to use the pytest framework by example
 import pytest
 from stuff.accum import Accumulator
 
-# Fixtures
+#  Fixtures
 @pytest.fixture
 def accum():
     return Accumulator()
