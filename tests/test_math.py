@@ -11,7 +11,7 @@ import pytest
 
 def test_one_plus():
     # assert is bulit-in and evaluates as a boolean and raises an excpetion of type error
-    assert 1 + 1 == 0 
+    assert 1 + 1 == 2 
 
 # Fail Test Case 
 # A Test Function to show Assertion Introspection
